@@ -20,6 +20,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         continue-on-error: true
         with:
-          feed_list: "https://www.kaggle.com/nayonahmedlol/rss"
+          feed_list: "https://www.kaggle.com/nayonahmedlol/code"
           comment_tag_name: "KAGGLE-NOTEBOOKS"
           max_post_count: 5
