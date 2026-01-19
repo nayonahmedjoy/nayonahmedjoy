@@ -1,0 +1,20 @@
+name: Update Kaggle Notebooks
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once per day
+  workflow_dispatch:      # allows manual run
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Kaggle RSS and update README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.kaggle.com/nayonahmedlol/rss"
+          comment_tag_name: "KAGGLE-NOTEBOOKS"
