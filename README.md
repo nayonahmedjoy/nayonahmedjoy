@@ -46,13 +46,6 @@
 
 <hr/>
 
-<!-- ===================== KAGGLE NOTEBOOKS ===================== -->
-## 📒 Latest Kaggle Notebooks
-
-<!-- KAGGLE-NOTEBOOKS:START -->
-<!-- KAGGLE-NOTEBOOKS:END -->
-
-
 <hr/>
 
 <!-- ===================== STATS ===================== -->
