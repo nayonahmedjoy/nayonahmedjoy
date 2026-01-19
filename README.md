@@ -1,72 +1,93 @@
-<!-- ================= HEADER ANIMATION ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=170&section=header&text=Hey%20I’m%20Nayon&fontSize=38&fontAlignY=35&animation=fadeIn" />
+<!-- ===================== HERO ===================== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Nayon+Ahmed;I+feed+machines+and+teach+them+to+think.;Learning+Machine+Learning+by+building+real+projects" />
+</h1>
 
-<!-- ================= TITLE & SUBTITLE ================= -->
-<h1 align="center">Hey, I’m Nayon. I feed machines and teach them to think.</h1>
-<h3 align="center">From data to deployment — learning ML by building</h3>
-
-<!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+NLP+%7C+Flask;Building+real-world+AI+projects;Learning+by+shipping+models" />
+  <img src="https://komarev.com/ghpvc/?username=nayonahmedjoy&label=Profile%20Views&color=0ea5e9&style=flat" />
 </p>
 
-<!-- ================= PROFILE VIEWS ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nayonahmedjoy&label=Profile%20Views&color=0e75b6&style=flat" />
+  <strong>From data → model → deployment</strong><br/>
+  Building ML & NLP systems one experiment at a time
 </p>
 
-<!-- ================= TROPHIES ================= -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nayonahmedjoy&theme=flat&row=1&column=6" />
-</p>
+<hr/>
 
-<!-- ================= SOCIAL BADGES ================= -->
+<!-- ===================== ABOUT ===================== -->
+## 🧠 About Me
+
+- 🔭 Currently building: **Spam Email Classification Web App**
+- 🌱 Learning: **Machine Learning, NLP, Flask, Model Deployment**
+- 👯 Open to collaborate on **ML & NLP projects**
+- 🤝 Looking for help with **MLOps, optimization & production ML**
+- 💬 Ask me about **Python, ML, NLP, Flask, Kaggle**
+- ⚡ Fun fact: *I debug more than I code — and I love it.*
+
+<hr/>
+
+<!-- ===================== FEATURED PROJECT ===================== -->
+## 🚀 Featured Project
+
 <p align="center">
-  <a href="https://twitter.com/nayonahmedjoy">
-    <img src="https://img.shields.io/twitter/follow/nayonahmedjoy?logo=twitter&style=for-the-badge" />
+  <a href="https://nayonahmed.pythonanywhere.com/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nayonahmedjoy&repo=Spam-Email-Classification-Web-App&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://bd.linkedin.com/in/nayonahmed">
+</p>
+
+<hr/>
+
+<!-- ===================== SKILLS ===================== -->
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,django,docker,linux,git,github,mysql,tensorflow,pytorch,opencv,sklearn,pandas,figma,html,css" />
+</p>
+
+<hr/>
+
+<!-- ===================== KAGGLE NOTEBOOKS ===================== -->
+## 📒 Latest Kaggle Notebooks
+
+<!-- KAGGLE-NOTEBOOKS:START -->
+<!-- KAGGLE-NOTEBOOKS:END -->
+
+<hr/>
+
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=nayonahmedjoy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=nayonahmedjoy&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayonahmedjoy&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<hr/>
+
+<!-- ===================== CONNECT ===================== -->
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/nayonahmed">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/nayonahmedjoy">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://kaggle.com/nayonahmedlol">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/c/nayonahmedseo">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently building **[Spam Email Classifier](https://nayonahmed.pythonanywhere.com/)**
-- 🌱 Learning **Machine Learning, NLP, Flask, Model Deployment**
-- 👯 Open to collaborate on **Machine Learning & NLP Projects**
-- 🤝 Looking for help with **Model optimization, deployment & MLOps basics**
-- 👨‍💻 Projects & experiments on **[Kaggle](https://www.kaggle.com/nayonahmedlol)**
-- 💬 Ask me about **Python, Machine Learning, NLP, Flask, Kaggle**
-- 📫 Reach me at **sknayon669@gmail.com**
-- ⚡ Fun fact: **I spend more time debugging than coding — and I love it**
-
----
-
-## 🧠 Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,flask,django,docker,linux,git,mysql,opencv&perline=6" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayonahmedjoy&show_icons=true&theme=tokyonight" />
-</p>
+<hr/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayonahmedjoy&theme=tokyonight" />
+  <em>“In ML, failure is just data you haven’t learned from yet.”</em>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayonahmedjoy&layout=compact&theme=tokyonight" />
-</p>
-
-<!-- ================= FOOTER ANIMATION ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=120&section=footer" />
